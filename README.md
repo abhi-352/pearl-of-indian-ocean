@@ -129,6 +129,4 @@ I have used only front-end web technologies like
     
 ### 📄 License
 
- <a href="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/rihamnazeer/Pearl-Of-The-Indian-Ocean"/>
-</a>
+
