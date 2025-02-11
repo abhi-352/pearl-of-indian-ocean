@@ -114,19 +114,3 @@ I have used only front-end web technologies like
 
 <p>The use of HTML, CSS, JavaScript, and Vue.js allows you to structure content, style the website, enhance interactivity, and create dynamic components like the To-Do section. Images and videos add visual richness and depth to your site, helping tourists better understand and appreciate the beauty of Sri Lanka's districts. The JavaScript-powered query system and the inclusion of "About Us" and "Contact Us" pages further enhance the user experience by facilitating communication and feedback. </p>
 
-### 💖 Support
-
-<p>You can show your support by starring this project. ⭐</p>
-<a href="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/stargazers">
-  <img src="https://img.shields.io/github/stars/rihamnazeer/Pearl-Of-The-Indian-Ocean?style=social" alt="Github Star">
-</a>
-
-### 💡 Contribute
-
-<a href="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/blob/main/CONTRIBUTING.md">
-   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/>
-</a>
-    
-### 📄 License
-
-
