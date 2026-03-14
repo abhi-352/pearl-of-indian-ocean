@@ -104,9 +104,6 @@ I have used only front-end web technologies like
 <img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/0764ae49-6428-4944-a87e-566a05ea8754">
 
 
-**Info:** 
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/967bbb8b-f16c-4e0c-b27d-15d325af8e44">
-
 
 
 ### Conclusion
